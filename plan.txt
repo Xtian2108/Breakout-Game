@@ -1,0 +1,11 @@
+1. Crear canvas
+2. Crear y dibujar la pelota
+3. Crear y dibujar la paleta
+4. Crear los ladrillos
+5. Mostrar y actualizar el puntaje
+6. Agregar update() para animar
+7. Mover paleta
+8. Usar teclado para mover la paleta
+9. Mover la pelota
+10. Agregar los limites en los ladrillos
+11. Perder, redibujar los ladrillos y resetear el puntaje
